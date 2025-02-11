@@ -1,3 +1,5 @@
 tasks.db
 .idea
 venv/
+.DB_Store
+.gitattributes
